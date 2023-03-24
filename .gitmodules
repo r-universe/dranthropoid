@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mmodely"]
+	path = mmodely
+	url = https://github.com/cran/mmodely
+	shallow = true
+	registered = true
